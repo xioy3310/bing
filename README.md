@@ -20,7 +20,7 @@ Bing壁纸，是微软Bing搜索引擎推出的一项服务，每天都会推送
 
 服务器显示方式会消耗大量的流量，速度会受服务器限制。建议优先使用302跳转直链显示方式，该方法是通过解析图片地址，直接跳转到Bing图片直链。不会消耗服务器流量，速度也不会受服务器限制，减少运营成本。
 
-如果你不想自己部署，可以直接使用[https://api.tntsec.com/bing/](https://api.tntsec.com/bing/)提供的API服务。
+如果你不想自己部署，可以直接使用[https://api.tntsec.com/bing/](https://api.tntsec.com/bing/)提供的API服务（302跳转直链显示方式）。
 
 # 使用方法
 
@@ -28,14 +28,10 @@ Bing壁纸，是微软Bing搜索引擎推出的一项服务，每天都会推送
 
 | 请求方式 | 作用 |
 | :----- | :----- |
-|[https://api.tntsec.com/bing/UHD.php](https://api.tntsec.com/bing/UHD.php)                    |输出为3840×2160分辨率的图片        |
-|[https://api.tntsec.com/bing/1920×1080.php](https://api.tntsec.com/bing/1920x1080.php)        |输出为1920×1080分辨率的图片        |
-|[https://api.tntsec.com/bing/1366×768.php](https://api.tntsec.com/bing/1366x768.php)          |输出为1366×768分辨率的图片         |
-|[https://api.tntsec.com/bing/m.php](https://api.tntsec.com/bing/m.php)                        |输出为1080×1920分辨率的图片        |
 |[https://api.tntsec.com/bing/UHD_302.php](https://api.tntsec.com/bing/UHD_302.php)            |输出为3840×2160分辨率的Bing直链图片|
-|[https://api.tntsec.com/bing/1920x1080_302.php](https://api.tntsec.com/bing/1920x1080_302.php)|输出为1920×1080分辨率的Bing直链图片|
 |[https://api.tntsec.com/bing/1366x768_302.php](https://api.tntsec.com/bing/1366x768_302.php)  |输出为1366×768分辨率的Bing直链图片 |
-|[https://api.tntsec.com/bing/m_302.php](https://api.tntsec.com/bing/m_302.php)                |输出为1080×1920分辨率的Bing直链图片|
+|[https://api.tntsec.com/bing/1920x1080_302.php](https://api.tntsec.com/bing/1920x1080_302.php)|输出为1920×1080分辨率的Bing直链图片|
+|[https://api.tntsec.com/bing/1080x1920_302.php](https://api.tntsec.com/bing/1080x1920_302.php)|输出为1080×1920分辨率的Bing直链图片|
 
 # 更新记录
 
