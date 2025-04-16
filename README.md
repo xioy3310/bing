@@ -36,3 +36,7 @@ Bing壁纸，是微软Bing搜索引擎推出的一项服务，每天都会推送
 |[https://api.tntsec.com/bing/1920x1080_302.php](https://api.tntsec.com/bing/1920x1080_302.php)|输出为1920×1080分辨率的Bing直链图片|
 |[https://api.tntsec.com/bing/1366x768_302.php](https://api.tntsec.com/bing/1366x768_302.php)  |输出为1366×768分辨率的Bing直链图片 |
 |[https://api.tntsec.com/bing/m_302.php](https://api.tntsec.com/bing/m_302.php)                |输出为1080×1920分辨率的Bing直链图片|
+
+# 更新记录
+
+2025.04.16 - 1.0
