@@ -13,6 +13,7 @@ Bing今天1366x768规格的壁纸（302跳转直链显示方式）。
 
 # 项目主页
 
+我的博客：[https://blog.tntsec.com/](https://blog.tntsec.com/)  
 Bing每日高清壁纸历史归档：[https://img.tntsec.com/](https://img.tntsec.com/)  
 Bing每日高清壁纸开放API接口：[https://api.tntsec.com/bing](https://api.tntsec.com/bing)
 
