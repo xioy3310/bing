@@ -9,8 +9,8 @@ Bing官方提供了壁纸获取接口，但是只能获取当日及过去7天的
 # 项目主页
 
 Bing每日高清壁纸历史归档：[https://img.tntsec.com/](https://img.tntsec.com/)  
-Bing每日高清壁纸开放API接口：[https://api.tntsec.com/bing](https://api.tntsec.com/bing)
-开放API接口使用说明文档：[https://blog.tntsec.com/index.php/archives/69.html](https://blog.tntsec.com/index.php/archives/69.html)
+Bing每日高清壁纸开放API接口：[https://api.tntsec.com/bing](https://api.tntsec.com/bing)  
+Bing每日高清壁纸开放API接口使用说明文档：[https://blog.tntsec.com/index.php/archives/69.html](https://blog.tntsec.com/index.php/archives/69.html)
 
 # 开源文件说明
 
