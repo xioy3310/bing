@@ -15,6 +15,7 @@ Bing今天1366x768规格的壁纸（302跳转直链显示方式）。
 
 Bing每日高清壁纸历史归档：[https://img.tntsec.com/](https://img.tntsec.com/)  
 Bing每日高清壁纸开放API接口：[https://api.tntsec.com/bing](https://api.tntsec.com/bing)
+
 Bing每日高清壁纸开放API接口使用说明文档：[https://blog.tntsec.com/index.php/archives/69.html](https://blog.tntsec.com/index.php/archives/69.html)
 
 # 开源文件说明
@@ -57,4 +58,5 @@ Bing每日高清壁纸开放API接口使用说明文档：[https://blog.tntsec.c
 # 高质量壁纸获取
 
 本站为了减少运营成本，站对外展示都是1366x768规格的壁纸。如果你想下载更高品质的壁纸，可以通过文章下面的[打包下载](https://www.123912.com/s/LAooTd-f2rPH)按钮来下载其他规格的壁纸。
+
 <img align="center" width="500" src="https://wkcct.oss-cn-beijing.aliyuncs.com/blog/img2/20250418210009.png">
