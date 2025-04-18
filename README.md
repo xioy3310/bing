@@ -6,16 +6,11 @@ Bing官方提供了壁纸获取接口，但是只能获取当日及过去7天的
 
 本项目通过官方提供的API接口每天定时自动获取每日不同规格的壁纸，自动更新，并上传至云端保存。
 
-# 使用演示
-
-Bing今天1366x768规格的壁纸（302跳转直链显示方式）。
-<center><img width="500" src="https://api.tntsec.com/bing/1366x768_302.php"></center>
-
 # 项目主页
 
 Bing每日高清壁纸历史归档：[https://img.tntsec.com/](https://img.tntsec.com/)  
 Bing每日高清壁纸开放API接口：[https://api.tntsec.com/bing](https://api.tntsec.com/bing)
-Bing每日高清壁纸API使用说明文档：[https://blog.tntsec.com/index.php/archives/69.html](https://blog.tntsec.com/index.php/archives/69.html)
+开放API接口使用说明文档：[https://blog.tntsec.com/index.php/archives/69.html](https://blog.tntsec.com/index.php/archives/69.html)
 
 # 开源文件说明
 
